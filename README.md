@@ -10,5 +10,5 @@ made with [pygame](https://www.pygame.org/) and [python 3.8](https://www.python.
 
 ## controls
 `wasd` - movement    
-`space` - to restart
+`space` - to restart    
 red dot represents the apple
